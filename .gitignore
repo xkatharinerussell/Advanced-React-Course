@@ -3,3 +3,5 @@ node_modules
 
 # Apple hidden files
 .DS_Store
+
+.next
