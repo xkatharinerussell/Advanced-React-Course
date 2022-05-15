@@ -1,3 +1,3 @@
 export default function SellPage() {
-  return <p>Hello!</p>;
+  return <p>Hello Sell!</p>;
 }
